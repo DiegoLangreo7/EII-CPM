@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+
+<index version="1.0">
+
+  <indexitem text="reservar un castillo" target="reservar" />
+  <indexitem text="descripción de CANOSA" target="introduccion" />
+  <indexitem text="obtener descuentos exclusivos" target="descuentos" />
+  <indexitem text="como jugar al minijuego" target="jugar" />
+  <indexitem text="música" >
+        <indexitem text="reservar" target="reservar" />
+        <indexitem text="descuentos" target="descuentos" />
+        <indexitem text="jugar" target="jugar" />
+  </indexitem>      
+    
+</index>
