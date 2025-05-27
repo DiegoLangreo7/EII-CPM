@@ -91,5 +91,6 @@ Cada carpeta corresponde a una práctica o mini-proyecto desarrollado en la asig
 - Tecnologías  
   Java (HTTPClient) / JSON
 
+---
 ## Autor
-[Diego García González](https://github.com/DiegoLangreo7)
+[DiegoLangreo7](https://github.com/DiegoLangreo7)
